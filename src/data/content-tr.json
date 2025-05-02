@@ -1,0 +1,84 @@
+{
+  "hero": {
+    "titleLine1": "Creative thinker Minimalism lover",
+    "description": "Merhaba, Ben Aybike. Front-end geliştiriciyim. Harika kullanıcı deneyimlerine sahip sağlam ve ölçeklenebilir ön uç ürünleri tasarlayacak bir Geliştirici arıyorsanız. Benimle iletişime geçin!",
+    "hireMe": "Hire me",
+    "GitHub": "GitHub",
+    "Linkedin": "Linkedin"
+  },
+  "skills": {
+    "title": "Yetenekler",
+    "skillsList": [
+      { "name": "JavaScript" },
+      { "name": "React" },
+      { "name": "Node.js" }
+    ],
+    "skillsListItem": [
+      {
+        "item": "Frontend projelerimin temelini JavaScript ile oluşturuyorum. Temiz ve etkili kod yazarak etkileşimli kullanıcı arayüzleri geliştiriyorum."
+      },
+      {
+        "item": "React ile ölçeklenebilir ve bileşen tabanlı arayüzler geliştiriyorum. Hook’lar, context API ve responsive tasarım kullanarak gerçek projeler oluşturdum."
+      },
+      {
+        "item": "Node.js ile frontend uygulamalarımı destekleyen API’ler ve arka uç servisleri geliştiriyorum. Bu sayede uçtan uca proje geliştirme sürecim daha verimli oluyor."
+      }
+    ]
+  },
+  "profile": {
+    "title": "Profil",
+    "title1": "Profil",
+    "title2": "Hakkımda",
+    "description1": "Doğum Tarihi",
+    "description2": "24.08.1999",
+    "description3": "Eğitim",
+    "description4": "İstanbul Medeniyet Uni. International Relations, Lisans 2022",
+    "description5": "Şehir",
+    "description6": "Istanbul",
+    "description7": "Pozisyon",
+    "description8": "Frontend Developer",
+    "description9": "Merhaba! Modern arayüzler geliştirmeye odaklanan bir Frontend Developer’ım. React, Tailwind ve Bootstrap ile kullanıcı dostu, hızlı ve duyarlı web uygulamaları geliştiriyorum. Öğrenmeye açık yapım ve detaylara verdiğim önemle projelerde fark yaratmayı seviyorum."
+  },
+  "projects": {
+    "title": "Projeler",
+    "projectsList": [
+      {
+        "name": "Teknolojik Yemekler - SPA",
+        "description": "Bu projede, bir pizza sipariş uygulamasını React ile geliştirdim. Form doğrulama, durum yönetimi, çoklu seçimler ve Axios ile API iletişimi gibi konulara odaklandım. Sipariş verisi bir onay sayfasına prop lifting yöntemiyle aktarıldı. Ayrıca Cypress ile kullanıcı senaryolarına dayalı testler yazdım.",
+        "technologies": ["React", "Axios", "Redux"],
+        "link": "https://github.com/aybikebasdamaksiz/s8-pizza-challenge",
+        "linkText": "View Project",
+        "linkText1": "GitHub"
+      },
+      {
+        "name": "Random Jokes",
+        "description": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible.",
+        "technologies": ["React", "Axios", "Redux"],
+        "link": "https://github.com",
+        "linkText": "View Project",
+        "linkText1": "GitHub"
+      },
+      {
+        "name": "Journey",
+        "description": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible.",
+        "technologies": ["React", "Axios", "Redux"],
+        "link": "https://github.com",
+        "linkText": "View Project",
+        "linkText1": "GitHub"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Yeni projenizde birlikte çalışalım!",
+    "mail": "aybikebasdamaksiz@gmail.com",
+    "personalBlog": "Kişisel Blog",
+    "GitHub": "GitHub",
+    "Linkedin": "Linkedin",
+    "personalBlogLink": "https://linkedin.com/in/aybikebaş",
+    "GitHubLink": "https://github.com/aybikebasdamaksiz",
+    "LinkedinLink": "https://linkedin.com/in/aybikebaş"
+  },
+  "footer": {
+    "copyright": "© 2025 Aybike Baş Damaksız. All rights reserved."
+  }
+}
